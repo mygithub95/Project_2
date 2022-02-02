@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>WEAPP Executable</DisplayName>
+    <Description>The EXE and other non-DLL dependencies for WEAPP.</Description>
+    <Version>1.2.4.0</Version>
+    <ReleaseDate>2022-01-29</ReleaseDate>
+    <RequiresAdminRights>true</RequiresAdminRights>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package>

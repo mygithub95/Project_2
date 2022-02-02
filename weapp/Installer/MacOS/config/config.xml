@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>WEAPP</Name>
+    <Version>1.2.4.0</Version>
+    <Title>WEAPP Installer</Title>
+    <Publisher>WEAPP-Technologies</Publisher>
+    <StartMenuDir>WEAPP</StartMenuDir>
+    <TargetDir>@HomeDir@/WEAPP</TargetDir>
+	<AllowSpaceInPath>true</AllowSpaceInPath>
+    <InstallerWindowIcon>main-icon</InstallerWindowIcon>
+    <InstallerApplicationIcon>main-icon</InstallerApplicationIcon>
+	<RemoteRepositories>
+        <Repository>
+            <Url>https://app.weapp.io/repositoryMac</Url>
+        </Repository>
+    </RemoteRepositories>
+</Installer>

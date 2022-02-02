@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="image.png">images/image.png</file>
+        <file alias="WEAPP-icon.png">images/WEAPP-icon.png</file>
+        <file alias="WEAPP-white.png">images/WEAPP-white.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="logo.svg">icon/logo.svg</file>
+        <file alias="loading.gif">icon/loading.gif</file>
+        <file alias="browser.svg">icon/browser.svg</file>
+        <file alias="executable.svg">icon/executable.svg</file>
+        <file alias="logo_white.svg">icon/logo_white.svg</file>
+        <file alias="checkBoxChecked.svg">icon/checkBoxChecked.svg</file>
+        <file alias="logout.svg">icon/logout.svg</file>
+        <file alias="settings.svg">icon/settings.svg</file>
+        <file alias="settings_active.svg">icon/settings_active.svg</file>
+        <file alias="business_time_active.svg">icon/business_time_active.svg</file>
+        <file alias="business_time.svg">icon/business_time.svg</file>
+        <file alias="logout_pressed.svg">icon/logout_pressed.svg</file>
+    </qresource>
+</RCC>

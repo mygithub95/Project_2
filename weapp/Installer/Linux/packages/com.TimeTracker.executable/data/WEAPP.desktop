@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.1
+Type=Application
+Name=WEAPP
+Icon=path/WEAPP_icon.png
+Exec=path/WEAPP_script.sh
+Terminal=false
